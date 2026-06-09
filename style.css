@@ -174,7 +174,7 @@ nav .btn-order:hover {
     text-decoration: none;
 }
 
-@media screen and (max-width:460px) {
+@media screen and (max-width:400px) {
 .offcards{
     flex-direction: column;  
     margin: 80px 50px;
@@ -317,7 +317,7 @@ margin-top: 15px;
     font-weight: 400;
     text-decoration: none;
 }
-@media screen and (max-width:460px) {
+@media screen and (max-width:400px) {
 .about{
     flex-direction: column;
     height: auto;
@@ -385,7 +385,7 @@ margin-top: 15px;
     border-radius: 10px;
     height: 400px;
 }
-@media screen and (max-width:460px) {
+@media screen and (max-width:400px) {
 #booktable{
     margin: 40px 15px;
 }
@@ -436,7 +436,7 @@ margin-top: 15px;
     margin: auto;
     box-shadow: var(--ycolor) 0px 2px 6px, var(--ycolor) 0px 0px 0px 5px;
 }
-@media screen and (max-width:460px) {
+@media screen and (max-width:400px) {
 .review h1{
     font-size: 1.5rem;
     letter-spacing: 1px;
@@ -478,7 +478,7 @@ footer .upsec .p2{
 }
 footer .upsec .p2 i:hover{color: var(--ycolor);}
 
-@media screen and (max-width:460px) {
+@media screen and (max-width:400px) {
 footer .upsec{
     flex-direction: column;
     align-items: center;
