@@ -94,7 +94,7 @@ nav .btn-order:hover {
 }
 
 }
-@media screen and (max-width:460px) {
+@media screen and (max-width:400px) {
 #carouselExampleSlidesOnly .carousel-caption {
     overflow-x: auto;
      max-height: 100px;
