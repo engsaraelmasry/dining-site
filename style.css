@@ -147,7 +147,6 @@ nav .btn-order:hover {
     margin: 80px 0 0 20px;
     justify-content: space-evenly;
 }
-
 .offcards .offcrd{
     width:550px;
     height: 250px;
@@ -240,7 +239,7 @@ nav .btn-order:hover {
   .offcards .offcrd .txt {
     font-size: 1.2rem;
   }
-    .offcards .offcrd .txt #btn{
+  .offcards .offcrd .txt #btn{
     border-radius: 25px;
     padding: 4px 11px;
     font-weight: 400;
@@ -314,7 +313,7 @@ margin-top: 15px;
 }
 @media (max-width: 992px) {
     .ourmenu {
-    padding: 8% 4%;
+    padding:10% 5%;
   }
   .ourmenu .Mparent {
     justify-content: space-evenly;
@@ -328,8 +327,8 @@ margin-top: 15px;
 
 @media (max-width: 576px) {
     .ourmenu {
-    padding: 10% 5%;
-  }
+    margin: 40px 16px;
+    padding: 16% 7%;  }
   .ourmenu h1 {
     font-size: 28px;
     margin-bottom: 30px;
@@ -350,20 +349,19 @@ margin-top: 15px;
     height: 230px;
   }
 }
-
 /* About */
 .about{
     width: 100%;
     height: 100vh; 
     background-color: rgb(45, 44, 44);
     display: flex;
-    padding: 50px;
+    padding: 10% 5% ;
     gap: 50px;
     justify-content:center;
 }
 .about img{
     width: 450px;
-    height: 550px;
+    height: 500px;
 }
 .about .abtxt{
     color: white;
@@ -389,7 +387,7 @@ margin-top: 15px;
     flex-direction: column;
     align-items: center;
     height: auto;
-    padding: 40px 30px;
+    padding:10% 5%;
     gap: 30px;
   }
   .about img {
@@ -405,8 +403,8 @@ margin-top: 15px;
 }
 @media (max-width: 576px) {
     .about {
-    padding: 30px 16px;
-  }
+   margin: 40px 16px;
+    padding: 16% 7%;  }
   .about img {
     width: 100%;
     max-width: 280px;
@@ -422,11 +420,11 @@ margin-top: 15px;
   }
 }
 
-
-
 /* book a table */
 #booktable{
-    margin: 100px;
+    margin: 50px;
+    padding:10% 5%;
+
 }
 .table{
     display: flex;
@@ -475,6 +473,8 @@ margin-top: 15px;
 @media (max-width: 992px) {
      #booktable {
     margin: 60px 30px;
+    padding:10% 5%;
+
   }
   #booktable .table {
     flex-direction: column;
@@ -493,6 +493,8 @@ margin-top: 15px;
 @media (max-width: 576px) {
     #booktable {
     margin: 40px 16px;
+    padding: 16% 7%;
+
   }
   #booktable h1 {
     font-size: 26px;
@@ -514,9 +516,7 @@ margin-top: 15px;
     
 }
 
-
 /* reviews */
-
 .review h1{
     font-size: 40px;
     text-align: center;
