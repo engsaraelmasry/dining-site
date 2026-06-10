@@ -327,7 +327,6 @@ margin-top: 15px;
 
 @media (max-width: 576px) {
     .ourmenu {
-    margin: 40px 16px;
     padding: 16% 7%;  }
   .ourmenu h1 {
     font-size: 28px;
@@ -403,7 +402,6 @@ margin-top: 15px;
 }
 @media (max-width: 576px) {
     .about {
-   margin: 40px 16px;
     padding: 16% 7%;  }
   .about img {
     width: 100%;
