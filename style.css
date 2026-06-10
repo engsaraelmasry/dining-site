@@ -49,7 +49,6 @@ nav .btn-order:hover {
 
 @media (max-width: 992px) {
  
-  /* --- Navbar --- */
   nav {
     padding: 2% 4% !important;
   }
@@ -62,7 +61,6 @@ nav .btn-order:hover {
 }
 @media (max-width: 576px) {
  
-  /* --- Navbar --- */
   .navbar-brand {
     font-size: 1.4rem !important;
   }
