@@ -8,9 +8,6 @@
     --bcolor:rgb(46, 45, 45);
     --gcolor:#e4dbdb;
 }
-body {
-    overflow-x: hidden;
-}
 nav {
     padding: 1% 5% !important;
     background-color: var(--bcolor);
@@ -180,7 +177,7 @@ nav .btn-order:hover {
 @media screen and (max-width:460px) {
 .offcards{
     flex-direction: column;  
-    margin: 80px 50px;
+    margin: 11%;
 }
 .offcards .offcrd{
     width:350px;
