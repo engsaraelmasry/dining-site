@@ -242,6 +242,11 @@ nav .btn-order:hover {
   .offcards .offcrd .txt {
     font-size: 1.2rem;
   }
+    .offcards .offcrd .txt #btn{
+    border-radius: 25px;
+    padding: 4px 11px;
+    font-weight: 400;
+}
 }
 
 
